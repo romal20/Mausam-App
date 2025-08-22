@@ -1,16 +1,50 @@
-# mausam
+# 🌦️ Mausam – Personal Weather Oracle  
 
-A new Flutter project.
+A simple yet powerful **Flutter mobile app** that provides real-time weather updates in a clean and user-friendly way.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features  
+- 🌍 Location-based weather updates (using device GPS)  
+- 📊 Current weather details: temperature, humidity, wind speed  
+- 📅 7-day weather forecast with clean UI  
+- 🔎 Search weather by city name  
+- 🎨 **Light Mode & Dark Mode theme support**  
+- ⚙️ **Unit customization**:  
+  - Temperature → °C / °F  
+  - Wind speed → km/h / mph  
+- 📝 **Feedback option** – Users can share suggestions, issues, or reviews directly from the app  
+- 🔐 **Secure Login System** – User credentials are stored safely in the cloud, and **passwords are encrypted** for protection  
+- 📱 Responsive design with Flutter widgets  
+- ⚡ State management using **GetX**  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack  
+- **Frontend:** Flutter (Dart)  
+- **State Management:** GetX  
+- **Authentication & Cloud Storage:** Firebase Auth / Firestore  
+- **API Integration:** OpenWeatherMap API  
+- **Version Control:** Git & GitHub  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+- Install [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- Set up an emulator or connect a physical Android/iOS device  
+
+### Installation  
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/mausam-weather-app.git
+
+# Navigate to project folder
+cd mausam-weather-app
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
