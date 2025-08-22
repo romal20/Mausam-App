@@ -73,7 +73,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/romal20/Mausam-App.git](https://github.com/romal20/Mausam-App.git)
+    git clone https://github.com/romal20/Mausam-App.git
     cd Mausam-App
     ```
 
