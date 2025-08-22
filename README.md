@@ -103,5 +103,6 @@ Follow these instructions to get the project up and running on your local machin
 
 ## 🧑‍💻 Developer
 
-- **Romal Shah - [mausamapp03@gmail.com] (mailto: mausamapp03@gmail.com)**
+- **Romal Shah**
+- **Contact: mausamapp03@gmail.com**
 
